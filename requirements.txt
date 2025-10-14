@@ -1,0 +1,8 @@
+streamlit
+openpyxl
+pandas
+requests
+pillow
+numpy
+opencv-python-headless
+urllib3
